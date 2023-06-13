@@ -26,29 +26,31 @@ Our fintech application is a comprehensive platform that integrates invoice mana
 
 ## Screenshots/Images
 Home Page
-![image](https://github.com/poojaramnaney/Wie-Hack/assets/101456681/259e37de-240e-4270-bd3b-96ccde25b505)
+![image](https://github.com/poojaramnaney/FinEdge/assets/101456681/3e6e067c-a5d0-44c7-891d-b8d5552d2752)
+
 
 Courses and Chatbot
-![image](https://github.com/poojaramnaney/Wie-Hack/assets/101456681/331cde2d-bf13-49da-8064-21e0967bbc8c)
+![image](https://github.com/poojaramnaney/FinEdge/assets/101456681/b887c724-50e2-4b99-a9ef-52e0824f6f2a)
+
 
 Trading Dashboard
-![image](https://github.com/poojaramnaney/Wie-Hack/assets/101456681/12875e38-d751-4eca-a1c9-04119afc54ed)
+![image](https://github.com/poojaramnaney/FinEdge/assets/101456681/4243efea-60d5-4da3-8ced-1a9bff473894)
 
 Invoice Tracker
-![image](https://github.com/poojaramnaney/Wie-Hack/assets/101456681/3a13c8b8-d984-49e9-8004-e64f831ad554)
+![image](https://github.com/poojaramnaney/FinEdge/assets/101456681/a703de1a-b3fd-4c54-a369-1fc1955064ef)
 
 Stock Predictor
-![image](https://github.com/poojaramnaney/Wie-Hack/assets/101456681/8d1b7448-7fdc-4423-8665-d444349adea6)
+![image](https://github.com/poojaramnaney/FinEdge/assets/101456681/6449ef68-43ee-4c34-8d05-bd4c08128cb4)
 
 Blogs
-![image](https://github.com/poojaramnaney/Wie-Hack/assets/101456681/2f9a9657-08d9-4a99-887f-83cb0f4d574c)
+![image](https://github.com/poojaramnaney/FinEdge/assets/101456681/73ef77ca-5131-40db-b4fa-633a94c52f7f)
 
 Memory Game
-![image](https://github.com/poojaramnaney/Wie-Hack/assets/101456681/5ac6cdcd-3e4d-4e9c-8082-4f550f69c3ed)
+![image](https://github.com/poojaramnaney/FinEdge/assets/101456681/02928aa3-8e72-44db-8917-af2d88cab217)
 
 
 Trivia Game
-![image](https://github.com/poojaramnaney/Wie-Hack/assets/101456681/6e0263a1-0fc3-42d3-95c3-8847a2e22f50)
+![image](https://github.com/poojaramnaney/FinEdge/assets/101456681/90e06be5-84b9-4f38-ab30-5739728494c8)
 
 
 
