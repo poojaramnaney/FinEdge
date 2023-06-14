@@ -18,7 +18,7 @@ function App() {
   const isLoggedIn = window.localStorage.getItem("loggedIn");
   return (
     <>
-    <BrowserRouter basename="/code-blazer">
+    <BrowserRouter >
       <Navbar />
       <Routes>
 
