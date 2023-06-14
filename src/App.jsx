@@ -18,7 +18,7 @@ function App() {
   const isLoggedIn = window.localStorage.getItem("loggedIn");
   return (
     <>
-    <BrowserRouter >
+    <BrowserRouter basename="FinEdge">
       <Navbar />
       <Routes>
 
